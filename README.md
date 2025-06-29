@@ -41,7 +41,7 @@ Bons estudos 😉
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
- # 2️⃣ Calculadora de partidas Rankeadas
+ # 2️⃣ Desafio Calculadora de partidas Rankeadas
 **O Que deve ser utilizado**
 
 - Variáveis
